@@ -47,7 +47,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Arlesha Moore">6816f79cc0a8016401c5a33be04be441</owner>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture>99ffd87cc3111210bbce341d05013152</picture>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
@@ -135,6 +135,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/jpeg</content_type>
+        <encryption_context/>
         <file_name>Plant-collage.jpg</file_name>
         <hash>122fd0c1cfb0f6c9d4007521fd562e7274c52973fd0df8500109220e4bf68671</hash>
         <image_height>427</image_height>

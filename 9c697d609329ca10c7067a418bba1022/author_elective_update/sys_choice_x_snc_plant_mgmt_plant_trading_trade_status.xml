@@ -6,6 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-10-09 12:24:26</sys_created_on>
+            <sys_id>4c4f889ec3d95210a7b2f3cc050131d6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>trade_status</sys_name>
             <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
@@ -29,6 +30,7 @@
             <sys_created_on>2024-10-09 12:24:26</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>009fc892c31d5210a7b2f3cc05013170</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-09 12:25:09</sys_updated_on>
@@ -48,6 +50,7 @@
             <sys_created_on>2024-10-09 12:24:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c9fc892c31d5210a7b2f3cc05013170</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-09 12:25:10</sys_updated_on>
@@ -67,6 +70,7 @@
             <sys_created_on>2024-10-09 12:24:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c9fc892c31d5210a7b2f3cc05013171</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-09 12:25:12</sys_updated_on>
@@ -86,6 +90,7 @@
             <sys_created_on>2024-10-09 12:24:47</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>889fc892c31d5210a7b2f3cc05013172</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-10-09 12:25:14</sys_updated_on>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
+        <alternate_portal/>
         <css_variables>body {
 	font-family: century-gothic, sans-serif;
   background: #f1f1f1;
@@ -60,6 +61,7 @@ color: #fff;
         <hide_portal_name>false</hide_portal_name>
         <homepage display_value="plants">ae5483db3b794650a891257aa5e45aff</homepage>
         <icon/>
+        <inactive>false</inactive>
         <kb_knowledge_base/>
         <kb_knowledge_page/>
         <login_page/>
@@ -97,6 +99,7 @@ color: #fff;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
         <hash>3748e55601fe1f4bc19c70fdeb0039f5fcae94ca93a68ec57d848dd25cacc6a4</hash>
         <image_height>2048</image_height>
